@@ -4,8 +4,8 @@ export const profile = {
   about:
     "Développeur Front-end Senior avec 10+ ans d'expérience spécialisé en React, TypeScript et Next.js. Expert en architecture front-end scalable, qualité du code et bonnes pratiques de développement. Expérience confirmée en lead technique avec code reviews, mentoring d'équipes et focus sur la maintenabilité. Passionné par la création d'applications performantes et l'amélioration continue.",
   email: "johann.zitouni@gmail.com",
-  github: "https://github.com",
-  linkedin: "https://linkedin.com",
+  github: "https://github.com/johannzs/",
+  linkedin: "https://www.linkedin.com/in/johann-zitouni/",
 };
 
 export const skills = [
