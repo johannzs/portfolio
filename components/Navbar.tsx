@@ -32,7 +32,7 @@ export default function Navbar() {
           href="#"
           className="font-display text-sm font-bold tracking-widest text-[#00FFA3] uppercase glow-text"
         >
-          JZ<span className="text-[#4A5568]">.dev</span>
+          johannzs<span className="text-[#4A5568]">.dev</span>
         </a>
 
         {/* Links */}
